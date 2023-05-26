@@ -1,2 +1,0 @@
-# PraktikaLitvinov
-Практика :)
